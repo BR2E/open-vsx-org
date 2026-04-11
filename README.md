@@ -5,6 +5,7 @@ Este repositorio se utiliza para verificar la propiedad del namespace **br2e** e
 ## Extensiones publicadas
 * **[Barrel Builder - TypeScript](https://open-vsx.org/extension/br2e/barrel-builder)**: Generación automática de archivos barrel (`index.ts`) para proyectos TypeScript.
 * **[Pastel - Theme](https://open-vsx.org/extension/br2e/pastel-theme)**: Tema pastel moderno para Visual Studio Code que proporciona una experiencia de codificación calmada, suave y visualmente equilibrada.
+* **[FastAPI Snippets](https://open-vsx.org/extension/br2e/fastapi-snippets)**: Colección de snippets para FastAPI que permite crear rápidamente endpoints, routers y estructuras backend con código limpio y listo para producción.
 
 ---
 Mantenido por [BR2E](https://github.com/BR2E).
